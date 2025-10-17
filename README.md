@@ -71,3 +71,21 @@ This repository is distributed under the MIT License. See the `LICENSE` file.
 **Pages URL:** https://VinaySinghChaudhary1.github.io/image-csv-display-imgcsv303/
 
 ---
+
+
+## 🌀 Round 1 (2025-10-17)
+
+**Brief:** Create a gallery card area with id #gallery that displays three thumbnails and a linked larger image area with id #viewer. Also include a CSV-based inventory table with id #inventory and a filter input #inventory-filter.
+
+**Checks:**
+- !!document.querySelector('#gallery')
+- document.querySelectorAll('#gallery img').length >= 3
+- !!document.querySelector('#viewer')
+- !!document.querySelector('#inventory')
+- !!document.querySelector('#inventory-filter')
+
+**Status:** ✅ Completed
+
+**Pages URL:** [https://VinaySinghChaudhary1.github.io/image-csv-display-imgcsv303/](https://VinaySinghChaudhary1.github.io/image-csv-display-imgcsv303/)
+
+---
